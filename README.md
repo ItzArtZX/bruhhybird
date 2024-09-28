@@ -2,4 +2,5 @@
 <h3 align="center">A stupid version of Flappy Bird with built-in glitches</h3>
 
 This game requires **Python** and **tkinker** module installed!
+
 This code is open-source and You can modify it to your likings.
